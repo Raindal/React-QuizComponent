@@ -39,12 +39,18 @@
     ]
   },
   "devDependencies": {
+    "babel-eslint": "^8.2.6",
     "babylon": "6.18.0",
     "chai": "4.1.2",
     "chai-enzyme": "0.8.0",
     "cross-env": "5.1.4",
     "enzyme": "3.3.0",
     "enzyme-adapter-react-16": "1.1.1",
+    "eslint": "^4.19.1",
+    "eslint-config-airbnb": "^17.0.0",
+    "eslint-plugin-import": "^2.13.0",
+    "eslint-plugin-jsx-a11y": "^6.1.1",
+    "eslint-plugin-react": "^7.10.0",
     "esprima": "4.0.0",
     "react-test-renderer": "16.3.1",
     "sinon": "5.0.1"
